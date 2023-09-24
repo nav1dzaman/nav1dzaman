@@ -32,6 +32,9 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/nav1dzaman/github-readme-stats)
 
+<a href="https://github.com/nav1dzaman/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages" width="400" height="300">
+</a>
 
    
 
