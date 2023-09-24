@@ -30,6 +30,7 @@
   
    ![](https://raw.githubusercontent.com/navz99/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navz99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" align="left" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/nav1dzaman/github-readme-stats)
 
 
    
