@@ -30,10 +30,8 @@
   
    ![](https://raw.githubusercontent.com/navz99/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/nav1dzaman/github-readme-stats)
-
 <a href="https://github.com/nav1dzaman/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anav1dzaman&layout=compact" alt="Top Languages" width="300" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nav1dzaman&layout=donut-vertical" alt="Top Languages" width="300" height="200">
 </a>
 
    
