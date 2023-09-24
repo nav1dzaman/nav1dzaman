@@ -29,7 +29,7 @@
   </p>
   
 <div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/navz99/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="CF Stats" style="width: 50%; height: auto;">
+    <img src="https://raw.githubusercontent.com/navz99/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="CF Stats" style="width: auto; height: auto;">
     <a href="https://github.com/nav1dzaman/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nav1dzaman&layout=donut-vertical" alt="Top Languages" width="400" height="300">
     </a>
