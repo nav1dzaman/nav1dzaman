@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D01DF7&lines=Hello+%2C++I+am+Navid+Zaman)](https://git.io/typing-svg)
 
-Currently learning : COMPUTER VISION and MERN Stack
+
 
 
 <h3 align="center">Learner | Tech Lover | Explorer</h3>
