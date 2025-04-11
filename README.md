@@ -5,6 +5,10 @@
 
 <h3 align="center">Learner | Tech Lover | Explorer</h3>
 
+<h4 align="center">I’m a backend-focused Software Engineer with hands-on experience in digital payments, FinTech, MFS, and banking systems. I specialize in building scalable and secure systems using technologies like Microservices, Spring Boot, Kafka, Akka, and PostgreSQL, with some frontend experience in Angular and React.
+
+I thrive in fast-paced environments, enjoy solving real-world problems, and am constantly pushing myself to learn and grow. Currently, I’m diving into the world of DevOps to strengthen my understanding of CI/CD, containerization, and infrastructure as code</h3>
+
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400px" align="right" alt="Computador iuriCode" data-canonical-src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" style="max-width: 100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navz99&label=Profile%20views&color=0e75b6&style=flat" alt="navz99" /> </p>
