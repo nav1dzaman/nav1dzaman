@@ -5,11 +5,15 @@
 
 <h3 align="center">Learner | Tech Lover | Explorer</h3>
 
-<h3 align="center">I’m a backend-focused Software Engineer with hands-on experience in digital payments, FinTech, MFS, and banking systems. I specialize in building scalable and secure systems using technologies like Microservices, Spring Boot, Kafka, Akka, and PostgreSQL, with some frontend experience in Angular and React.
-
-I thrive in fast-paced environments, enjoy solving real-world problems, and am constantly pushing myself to learn and grow. Currently, I’m diving into the world of DevOps to strengthen my understanding of CI/CD, containerization, and infrastructure as code</h3>
-
-</br>
+<h3 align="center">
+  👋 Hi there! I'm a backend-focused <strong>Software Engineer</strong> with hands-on experience in 💳 digital payments, 💼 FinTech, 📱 MFS, and 🏦 banking systems. <br/>
+  <br/>
+  I specialize in building scalable and secure systems using technologies like 🧩 Microservices, ☕ Spring Boot, ⚡ Kafka, 🎭 Akka, and 🐘 PostgreSQL, with a splash of frontend in 🌐 Angular and ⚛️ React.<br/>
+  <br/>
+  I thrive in 🚀 fast-paced environments, love solving real-world problems 🧠, and constantly push myself to learn and grow 📚. <br/>
+  <br/>
+  🌱 Currently diving into the world of DevOps to strengthen my understanding of CI/CD 🔄, containerization 🐳, and infrastructure as code ⚙️.
+</h3>
 
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400px" align="right" alt="Computador iuriCode" data-canonical-src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" style="max-width: 100%;">
 
