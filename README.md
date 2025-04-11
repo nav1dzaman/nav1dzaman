@@ -10,8 +10,6 @@
   <br/>
   I specialize in building scalable and secure systems using technologies like 🧩 Microservices, ☕ Spring Boot, ⚡ Kafka, 🎭 Akka, and 🐘 PostgreSQL, with a splash of frontend in 🌐 Angular and ⚛️ React.<br/>
   <br/>
-  I thrive in 🚀 fast-paced environments, love solving real-world problems 🧠, and constantly push myself to learn and grow 📚. <br/>
-  <br/>
   🌱 Currently diving into the world of DevOps to strengthen my understanding of CI/CD 🔄, containerization 🐳, and infrastructure as code ⚙️.
 </h3>
 
