@@ -5,7 +5,7 @@
 
 <h3 align="center">Learner | Tech Lover | Explorer</h3>
 
-<h4 align="center">I’m a backend-focused Software Engineer with hands-on experience in digital payments, FinTech, MFS, and banking systems. I specialize in building scalable and secure systems using technologies like Microservices, Spring Boot, Kafka, Akka, and PostgreSQL, with some frontend experience in Angular and React.
+<h3 align="center">I’m a backend-focused Software Engineer with hands-on experience in digital payments, FinTech, MFS, and banking systems. I specialize in building scalable and secure systems using technologies like Microservices, Spring Boot, Kafka, Akka, and PostgreSQL, with some frontend experience in Angular and React.
 
 I thrive in fast-paced environments, enjoy solving real-world problems, and am constantly pushing myself to learn and grow. Currently, I’m diving into the world of DevOps to strengthen my understanding of CI/CD, containerization, and infrastructure as code</h3>
 
